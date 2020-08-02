@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
+- 🔭 I'm currently working on a secure chat solution in Go/Node.js + Vue.js 
+- 🌱 I'm currently learning Go, aswell as advancing in Node.js.
 <!--
 **joan41868/joan41868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
