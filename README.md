@@ -4,6 +4,10 @@
 - 🌱 I'm currently learning Go, aswell as advancing in Node.js.
 - 💬 You can ask me EVERYTHING about Go, Node.js and Linux.
 - ⚡ Fun fact:  I am a security freak.
+
+![](https://komarev.com/ghpvc/?username=joan41868)
+
+
 <!--
 **joan41868/joan41868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
