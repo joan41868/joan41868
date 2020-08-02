@@ -1,5 +1,5 @@
 ## Hi there 👋
-- heart I love Linux, especially Debian.
+- :heart: I love Linux, especially Debian.
 - 🔭 I'm currently working on a secure chat solution in Go/Node.js + Vue.js 
 - 🌱 I'm currently learning Go, aswell as advancing in Node.js.
 - 💬 You can ask me EVERYTHING about Go, Node.js and Linux.
