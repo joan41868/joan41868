@@ -1,7 +1,7 @@
 ## Hi there 👋
 - :heart: I love Linux, especially Debian.
-- 🔭 I'm currently working on a secure chat solution in Go/Node.js + Vue.js 
-- 🌱 I'm currently learning Go, aswell as advancing in Node.js.
+- 🔭 I'm currently working on blockchain solutions.
+- 🌱 I'm currently learning Rust.
 - 💬 You can ask me EVERYTHING about Go, Node.js and Linux.
 - ⚡ Fun fact:  I am a security freak.
 
