@@ -1,9 +1,5 @@
 ## Hi there 👋
-- :heart: I love Linux, especially Debian.
-- 🔭 I'm currently working on blockchain solutions.
-- 🌱 I'm currently learning Rust.
-- 💬 You can ask me EVERYTHING about Go, Node.js and Linux.
-- ⚡ Fun fact:  I am a security freak.
+- I'm speaking only Java, Go or JS. Ping me.
 
 ![](https://komarev.com/ghpvc/?username=joan41868)
 
