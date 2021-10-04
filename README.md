@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm speaking only Java, Go or JS. Ping me for any of them.
-### I'm into blockchain aswell.
+### I'm into blockchain as well.
 
 ![](https://komarev.com/ghpvc/?username=joan41868)
 
